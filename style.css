@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+}
+
+header{
+    text-align: center;
+    color: cyan;
+}
+ul{
+    text-align: center;
+    color: teal;
+    font-size: 150%;
+}
